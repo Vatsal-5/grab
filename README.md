@@ -15,9 +15,3 @@ This is a React project bootstrapped with [Vite](https://vitejs.dev/). It includ
 - Node.js (v22.13.1 or higher recommended)
 - npm, yarn, pnpm or bun (package manager of your choice)
 
-### Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/MeetBhungaliya/grab
-   cd grab
